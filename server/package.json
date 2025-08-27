@@ -1,0 +1,47 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "async": "^3.2.6",
+    "bcryptjs": "^3.0.2",
+    "body-parser": "^2.2.0",
+    "bullmq": "^5.56.9",
+    "cheerio": "^1.1.0",
+    "cloudinary": "^2.7.0",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^17.0.1",
+    "express": "^5.1.0",
+    "firebase": "^12.1.0",
+    "firebase-admin": "^13.4.0",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.17.0",
+    "mongoose": "^8.16.1",
+    "multer": "^2.0.2",
+    "nanoid": "^5.1.5",
+    "node-cron": "^4.2.1",
+    "nodemailer": "^7.0.4",
+    "path": "^0.12.7",
+    "pdf-parse": "^1.1.1",
+    "pdf2json": "^3.1.6",
+    "razorpay": "^2.9.6",
+    "redis": "^5.7.0",
+    "socket.io": "^4.8.1",
+    "tesseract.js": "^6.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
