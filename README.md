@@ -5,7 +5,7 @@ Markdown
 
 **AI Quiz Builder** is a powerful full-stack platform designed to revolutionize the way quizzes are created and conducted. By leveraging the Gemini API, it instantly generates high-quality quizzes from multiple sources (PDFs, images, text, or web links). Beyond generation, it serves as a robust real-time multiplayer engine for hosting live quizzes with instant scoring and dynamic leaderboards.
 
-🌐 **Live Application:** [https://quiz-client-mauve.vercel.app](https://quiz-client-mauve.vercel.app)
+🌐 **Live Application:** [https://quiz-client-mauve.vercel.app/dashboard] (https://quiz-client-mauve.vercel.app/dashboard)
 
 ---
 
